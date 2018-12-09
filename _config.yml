@@ -78,9 +78,10 @@ author:
 social-network-links:
 #  rss: true
 #  email: "someone@example.com"
-  facebook: true
-  github: true
-  twitter: true
+#  facebook: true
+  facebook: 
+  github: 
+  twitter: 
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
