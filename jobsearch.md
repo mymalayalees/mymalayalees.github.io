@@ -3,7 +3,7 @@ title: Malaysia Job Search
 bigimg: /img/mm_cover.jpg
 ---
 
-# How to Search for Jobs in Malaysia 
+# How to search for jobs in Malaysia 
 Yes, there are so many ways to getting a job in Malaysia. 
 You can search via company portal (usually they post all available vacancies under career section) or you can search in popular job portals as listed below.
 
