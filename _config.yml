@@ -34,7 +34,6 @@ navbar-links:
     - Hays: "https://www.hays.com.my"
     - Naukri Malaysia: "https://www.naukri.com/jobs-in-malaysia"
     - Search Google: "https://www.google.com/search?q=malaysia+jobs&oq=malaysia+jobs&aqs=chrome..69i57j69i60l2j0l3.1816j0j7&sourceid=chrome&ie=UTF-8"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
