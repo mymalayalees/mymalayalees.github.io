@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: About Us
 bigimg: /img/mm_cover.jpg
 ---
 
