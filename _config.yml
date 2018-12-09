@@ -23,7 +23,7 @@ description: An Unofficial Desk for Help and Information
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "about.MD"
+  About Me: "about"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -72,10 +72,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+#  email: "someone@example.com"
+  facebook: true
+  github: true
+  twitter: true
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
