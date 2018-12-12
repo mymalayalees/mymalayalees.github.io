@@ -1,5 +1,5 @@
 ---
-title: Malaysia Job Search | Malaysian Malayalees
+title: Malaysia Job Search
 bigimg: /img/jobsearch-1.jpg
 ---
 
