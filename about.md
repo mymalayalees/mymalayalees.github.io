@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About Us | Malaysian Malayalees
 bigimg: /img/mm_cover.jpg
 ---
 
