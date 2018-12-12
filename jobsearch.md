@@ -1,6 +1,6 @@
 ---
 title: Malaysia Job Search
-bigimg: /img/mm_cover.jpg
+bigimg: /img/jobsearch-1.jpg
 ---
 
 # How to search for jobs in Malaysia 
