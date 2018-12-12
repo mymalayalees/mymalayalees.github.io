@@ -1,6 +1,6 @@
 ---
 title: About Us
-bigimg: /img/mm_cover.jpg
+bigimg: /img/kuala-lumpur.jpg
 ---
 
 # About Us
