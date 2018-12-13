@@ -25,8 +25,8 @@ description: An Unofficial Helpdesk
 navbar-links:
   Home: "./"
   About Us: "about"
-  FAQ : "faq"
-  Malaysia Jobs : "jobsearch"
+  FAQ: "faq"
+  Malaysia Jobs: "jobsearch"
   Job Sites:
     - JobStreet.com: "https://www.jobstreet.com.my"
     - Jora MY: "https://my.jora.com"
