@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-bigimg: /img/faq-image.jpeg
+bigimg: /img/faq-bg.jpg
 ---
 
 # Frequently Asked Questions
