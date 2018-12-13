@@ -2,11 +2,15 @@
 title: Frequently Asked Questions
 bigimg: /img/faq-image.jpg
 ---
-- [q1](#question--is-there-any-official-organization-behind-malaysian-malayalees-)
 
 # Frequently Asked Questions
-#### Question : Is there any official organization behind Malaysian Malayalees ?
-Answer : No, we are just a group of people who want to help you by sharing useful informations and as well providing answers to your general queries.
+- [Is there any official organization behind Malaysian Malayalees ?](#is-there-any-official-organization-behind-malaysian-malayalees-)
+
+### Is there any official organization behind Malaysian Malayalees ?
+No, we are just a group of people who want to help you by sharing useful informations and as well providing answers to your general queries.
+
+### How can I receive latest news and updates from Malaysian Malayalees ?
+You may follow our [Facebook](https://www.facebook.com/MalaysianMalayalees) and [Twitter](https://twitter.com/mymalayalees) where we always updates information if any.
 
 
 Thank you.
