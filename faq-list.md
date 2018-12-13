@@ -6,6 +6,8 @@ bigimg: /img/faq-bg.jpg
 # Frequently Asked Questions
 - [Is there any official organization behind Malaysian Malayalees ?](#is-there-any-official-organization-behind-malaysian-malayalees-)
 - [How can I receive latest news and updates from Malaysian Malayalees ?](#how-can-i-receive-latest-news-and-updates-from-malaysian-malayalees-)
+- [Do I need a Visa to enter Malaysia ?](#do-i-need-a-visa-to-enter-malaysia-)
+
 
 ### Is there any official organization behind Malaysian Malayalees ?
 No, we are just a group of people who want to help you by sharing useful informations and as well providing answers to your general queries.
