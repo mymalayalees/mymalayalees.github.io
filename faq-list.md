@@ -23,9 +23,27 @@ Also refer [Malaysia Visa information, types of Visa, where / how to apply](http
 Yes, you can. But make sure it's an approved agency and you have all details before you accept job. If they are asking for money before you onboard, do extra check.
 
 There are so many fake recruitment happening around the globe; so beware.
+
 Read [Fake vs Real Job](https://www.randstad.com.my/workforce360/archives/real-job-vs-fake-job_155/)
 
+### What if my agent asks for money ?
+Yes, agency might ask for money in terms of fees and other charges but make sure you have clear information about the job before you make any payments.
 
+### What are the items to be checked ?
+You should receive an agreement (job offer letter or job agreement letter) which clearly stated,
+- what is the job nature
+- where is the exact location
+- what is the remuneration agereements
+- leave benefits
+- other terms & conditions.
+
+### How to verify if this is a real job or fake job ?
+Come on, you are living in a digital world, connected to internet 24 hours. 
+- Just search for the company details, websites etc. 
+- If there is a phone number to contact, please call directly and ask them.
+- If there is a website, check all details including address and contact number.
+- If you know someone in that country (eg: Malaysia) get their help to verify the address.
+- If you find the address, search in [Google Maps](https://www.google.com/maps) and try to verify.
 
 (more to come)
 
