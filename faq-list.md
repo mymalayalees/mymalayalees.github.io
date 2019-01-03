@@ -10,7 +10,7 @@ bigimg: /img/faq-bg.jpg
 - [Can I get job via Agency ?](#can-i-get-job-via-agency-)
 - [What if my agent asks for money ?](#what-if-my-agent-asks-for-money-)
 - [What are the items to be checked ?](#what-are-the-items-to-be-checked-)
-- How to verify if this is a real job or fake job ?](#how-to-verify-if-this-is-a-real-job-or-fake-job-)
+- [How to verify if this is a real job or fake job ?](#how-to-verify-if-this-is-a-real-job-or-fake-job-)
 
 ### Is there any official organization behind Malaysian Malayalees ?
 No, we are just a group of people who want to help you by sharing useful informations and as well providing answers to your general queries.
