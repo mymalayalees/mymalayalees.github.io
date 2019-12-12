@@ -48,6 +48,10 @@ Come on, you are living in a digital world, connected to internet 24 hours.
 - If you know someone in that country (eg: Malaysia) get their help to verify the address.
 - If you find the address, search in [Google Maps](https://www.google.com/maps) and try to verify.
 
+### What is DP 10 Visa
+
+Ref : https://easymanpower.co/malaysia-dp10-professional-visa-faqs/
+
 (more to come)
 
 Thank you.
